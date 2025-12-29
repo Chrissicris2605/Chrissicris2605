@@ -89,7 +89,7 @@ I often work as a **solo developer**, owning architecture, implementation, itera
 ## 🎓 Background
 
 - Bachelor of **Systems Engineering** – UFMG  
-- Product Management & Project Management training  
+- Product Management & Project Management 
 - Game Design specialization  
 
 ---
