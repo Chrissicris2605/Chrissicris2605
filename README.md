@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  AI Product Engineer | Applied AI & Automation | Systems Engineering | Game Designer
+  Systems Engineer | Engineering Automation | Applied AI Engineer | Game Design
 </h3>
 
 <p align="center">
@@ -22,8 +22,7 @@ I'm an **AI Product Engineer** with a Systems Engineering background, focused on
 
 I specialize in transforming complex, real-world workflows into **reliable tools and products**, combining:
 - solid engineering fundamentals  
-- product-oriented thinking  
-- **applied AI as an accelerator**, not a black box  
+- product-oriented thinking   
 
 I often work as a **solo developer**, owning architecture, implementation, iteration, and delivery — from idea to production.
 
@@ -73,10 +72,11 @@ I often work as a **solo developer**, owning architecture, implementation, itera
 
 ## 🎮 Game Design & Systems Projects
 
-### ♟️ Gambit of 5 Myths
+### ♟️ Adventurer's Conquest
 - Strategy card game with full gameplay loop  
 - Implemented economy system, AI opponent, difficulty scaling, autosave, and progression  
 - Strong focus on **systems design and balance**
+- 📥 Download available [(external link)](https://store.steampowered.com/app/4428540/Adventurers_Conquest/)
 
 ### 🇧🇷 Pokémon Brasil Fan Game
 - Large-scale RPG fan game set in Brazil  
