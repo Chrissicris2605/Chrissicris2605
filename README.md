@@ -74,6 +74,22 @@ Public demo of a dual-pane desktop productivity tool designed to connect visual 
 
 ---
 
+### 🧠 [Autonomous Gameplay AI Demo](https://github.com/Chrissicris2605/Autonomous-Gameplay-AI-Demo)
+
+Public demo of an autonomous decision-making agent in a simplified grid-based gameplay environment.
+
+**Highlights:**
+
+- models a grid environment with obstacles, rewards, actions, and a goal;
+- compares a random baseline agent against a heuristic decision agent;
+- uses reward design, state representation, and simulation metrics;
+- prints success rate, average reward, average steps, action logs, and final grid state;
+- demonstrates the foundations of applied AI decision systems in a small and explainable project.
+
+**Tech:** Python, decision systems, simulation loops, heuristic policies, environment modeling.
+
+---
+
 ## 🧠 Applied AI & Product Direction
 
 I use AI as a practical engineering accelerator, especially for:
@@ -82,7 +98,8 @@ I use AI as a practical engineering accelerator, especially for:
 - extracting and organizing technical information;
 - accelerating software development and refactoring;
 - improving decision support for complex processes;
-- prototyping AI-assisted products.
+- prototyping AI-assisted products;
+- modeling simple autonomous agents and decision systems.
 
 My current professional direction is focused on international opportunities involving **engineering automation, applied AI, internal tools, workflow software, and product-minded technical delivery**.
 
@@ -92,7 +109,7 @@ My current professional direction is focused on international opportunities invo
 
 ### ♟️ [Adventurer's Conquest](https://store.steampowered.com/app/4428540/Adventurers_Conquest/)
 
-A commercial strategy card game with a complete gameplay loop, economy system, AI opponent, progression, autosave, difficulty scaling, and systems balancing.
+A commercial strategy card game approved for release on Steam, with a complete gameplay loop, economy system, AI opponent, progression, autosave, difficulty scaling, and systems balancing.
 
 This project demonstrates end-to-end product delivery, game systems design, user experience decisions, and release ownership.
 
@@ -108,7 +125,7 @@ A large-scale RPG fan game set in Brazil, developed over **1 year and 8 months**
 **Desktop UI:** PySide6, Tkinter  
 **Data automation:** pandas, openpyxl, Excel workflows  
 **Web/API:** FastAPI, React, TypeScript  
-**AI:** AI-assisted development, automation, extraction, applied AI prototyping  
+**AI:** AI-assisted development, automation, extraction, decision systems, applied AI prototyping  
 **Game development:** Electron, React, TypeScript, RPG Maker, Godot concepts  
 **Engineering:** Systems Engineering, requirements analysis, process automation, workflow design
 
